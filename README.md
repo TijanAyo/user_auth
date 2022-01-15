@@ -20,5 +20,7 @@ Another **REST API Client** for Vscode
 
 - **Thunder Client**
 
+or simply use **Postman**
+
 
 
